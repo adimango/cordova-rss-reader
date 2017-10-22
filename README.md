@@ -5,8 +5,9 @@
     $ cd reader
     $ cordova plugin add cordova-plugin-whitelist
     $ cordova prepare
-    $ cordova platform add browser
-    $ cordova emulate browser
+    $ cordova platform add browser    
+    $ cordova platform add ios
+    $ cordova emulate browser or cordova emulate browser
 
 ### Deployed on Heroku ###
 Please find below the api url.    
