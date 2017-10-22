@@ -1,0 +1,26 @@
+{
+  "name": "rss2json-api",
+  "version": "1.0.0",
+  "description": "A simple rss2json-api project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rss2json"
+  ],
+  "author": "Alex Di Mango",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-http": "^3.0.0",
+    "mocha": "^4.0.1"
+  }
+}
