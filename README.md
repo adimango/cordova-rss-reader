@@ -13,5 +13,3 @@
 Please find below the api url.    
     
     https://aqueous-eyrie-16697.herokuapp.com/api/feeds?rss_url=
-# cordova-jquery
-# cordova-jquery
