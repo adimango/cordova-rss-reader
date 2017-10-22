@@ -7,8 +7,8 @@
     $ cordova prepare
     $ cordova platform add browser    
     $ cordova platform add ios
-    $ cordova emulate browser or cordova emulate browser
-
+    $ cordova emulate ios
+    
 ### Deployed on Heroku ###
 Please find below the api url.    
     
